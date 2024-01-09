@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Amatic+SC:wght@400;700&family=Poppins:ital,wght@0,200;0,400;0,600;1,200&family=Source+Sans+Pro:wght@300;400&family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+$paleta:(
+    'main': #f0e6c7,
+    'secondary': #7c3359,
+    'lighterSecondary': #86546e,
+    'evenLighterSecondary': #866777,
+    'darkerSecondary': #69224e,
+    'evenDarkerSecondary': #581c41,
+    'brownish': #e7c380,
+    'greenLeave': #9ebc4a,
+    "lighterGreenLeave": #bbd66f,
+    "relax": #9ecfce,
+    "darkerRelax": #4d7978,
+    'evenDarkerRelax': #2e4645
+);
+
+$mainFont: 'Ubuntu Condensed', sans-serif;
+$secondaryFont: 'Source Sans Pro', sans-serif;
+$testFont: 'Abel', sans-serif;
+$localDirectory: "http://localhost:3000/img/madera.webp";
+$relaxFont: 'Handlee', cursive;;

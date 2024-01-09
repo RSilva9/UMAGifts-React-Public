@@ -1,0 +1,43 @@
+[
+    {
+        "codigo": 106,
+        "content": [
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4980"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4975"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4986"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4987"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4984"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4983"
+              }
+            }
+        ],
+        "img": "./img/box/box106.webp",
+        "imgbg": "./img/box/conFondo/b106.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 13435
+    }
+]

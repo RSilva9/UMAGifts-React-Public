@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499a"
+  },
+  "codigo": 106,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 LUGI BOSCA</h3><h3>+1 Dip del bosque con Hongos al Malbec</h3><h3>+1 Chutney de moras al Malbec</h3><h3>+1 Pasta de aceitunas negras</h3><h3>+1 Pavita deshuesada en escabeche</h3></div>",
+  "img": "./img/box/box106.webp",
+  "imgbg": "./img/box/conFondo/b106.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 9990
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499c"
+  },
+  "codigo": 108,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3><h3>+1 Dip del bosque con Hongos al Malbec</h3><h3>+1 Chutney de moras al Malbec</h3><h3>+1 Pasta de aceitunas negras</h3><h3>+1 Pavita deshuesada en escabeche</h3></div>",
+  "img": "./img/box/box108.webp",
+  "imgbg": "./img/box/conFondo/b108.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 9140
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499e"
+  },
+  "codigo": 110,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN DOBLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3><h3>+1 LUIGI BOSCA Malbec</h3></div>",
+  "img": "./img/box/box110.webp",
+  "imgbg": "./img/box/conFondo/b110.webp",
+  "tipo": "carton",
+  "tam": "doble",
+  "deli": false,
+  "precio": 6700
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a6"
+  },
+  "codigo": 118,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN</h2><h3>+1 RUTINI Malbec</h3></div>",
+  "img": "./img/box/box118.webp",
+  "imgbg": "./img/box/conFondo/b118.webp",
+  "tipo": "bolsa",
+  "tam": "simple",
+  "deli": false,
+  "precio": 6890
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a7"
+  },
+  "codigo": 119,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 Espumante NIETO SENETINER EXTRA BRUT</h3><h3>+1 Sidra 1888</h3></div>",
+  "img": "./img/box/box119.webp",
+  "imgbg": "./img/box/conFondo/b119.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": false,
+  "precio": 6895
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49aa"
+  },
+  "codigo": 122,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3><h3>+1 Aceitunas verdes rellenas con morrón - Nucete</h3><h3>+1 Aceitunas negras en salmuera - Nucete</h3><h3>+1 Dip del bosque con hongos al malbec - Valleverde</h3></div>",
+  "img": "./img/box/box122.webp",
+  "imgbg": "./img/box/conFondo/b122.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 7500
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49ab"
+  },
+  "codigo": 123,
+  "text": "<div class=\"popup\"><h2>BOLSA DE CARTÓN</h2><h3>+1 SALENTEIN RESERVA Malbec</h3></div>",
+  "img": "./img/box/box123.webp",
+  "imgbg": "./img/box/conFondo/b123.webp",
+  "tipo": "bolsa",
+  "tam": "simple",
+  "deli": false,
+  "precio": 2500
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49ac"
+  },
+  "codigo": 124,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA SIMPLE</h2><h3>+1 D.V. CATENA Malbec Malbec</h3></div>",
+  "img": "./img/box/box124.webp",
+  "imgbg": "./img/box/conFondo/b124.webp",
+  "tipo": "madera",
+  "tam": "simple",
+  "deli": false,
+  "precio": 8130
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d4996"
+  },
+  "codigo": 102,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 D.V. CATENA Malbec</h3><h3>+1 Luigi Bosca Malbec</h3></div>",
+  "img": "./img/box/box102.webp",
+  "imgbg": "./img/box/conFondo/b102.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": false,
+  "precio": 11750
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499d"
+  },
+  "codigo": 109,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 TRUMPETER Malbec</h3><h3>+1 Dip del bosque con Hongos al Malbec</h3><h3>+1 Chutney de moras al Malbec</h3><h3>+1 Pasta de aceitunas negras</h3><h3>+1 Pavita deshuesada en escabeche</h3></div>",
+  "img": "./img/box/box109.webp",
+  "imgbg": "./img/box/conFondo/b109.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 9230
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a3"
+  },
+  "codigo": 115,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN SIMPLE</h2><h3>+1 RUTINI Malbec</h3></div>",
+  "img": "./img/box/box115.webp",
+  "imgbg": "./img/box/conFondo/b115.webp",
+  "tipo": "carton",
+  "tam": "simple",
+  "deli": false,
+  "precio": 7800
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a4"
+  },
+  "codigo": 116,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 SALENTEIN Malbec</h3><h3>+1 Mermelada de arándanos orgánicos - Estancia Las Quinas (Sin T.A.C)</h3><h3>+1 Cebollas al Malbec - Juliana López May</h3><h3>+1 Mermelada orgánica de Saúco - Cuyen</h3></div>",
+  "img": "./img/box/box116.webp",
+  "imgbg": "./img/box/conFondo/b116.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 8000
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49af"
+  },
+  "codigo": 127,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN SIMPLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3></div>",
+  "img": "./img/box/box127.webp",
+  "imgbg": "./img/box/conFondo/b127.webp",
+  "tipo": "carton",
+  "tam": "simple",
+  "deli": false,
+  "precio": 3433
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49b0"
+  },
+  "codigo": 128,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN SIMPLE</h2><h3>+1 SALENTEIN RESERVA Malbec</h3></div>",
+  "img": "./img/box/box128.webp",
+  "imgbg": "./img/box/conFondo/b128.webp",
+  "tipo": "carton",
+  "tam": "simple",
+  "deli": false,
+  "precio": 3668
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d4995"
+  },
+  "codigo": 101,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 RUTINI Malbec</h3><h3>+1 SALENTEIN RESERVA Malbec</h3></div>",
+  "img": "./img/box/box101.webp",
+  "imgbg": "./img/box/conFondo/b101.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": false,
+  "precio": 11880
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d4997"
+  },
+  "codigo": 103,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 RUTINI Malbec</h3><h3>+1 D.V. CATENA Malbec</h3></div>",
+  "img": "./img/box/box103.webp",
+  "imgbg": "./img/box/conFondo/b103.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": false,
+  "precio": 15435
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d4999"
+  },
+  "codigo": 105,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 RUTINI Malbec</h3><h3>+1 Dip del bosque con Hongos al Malbec</h3><h3>+1 Chutney de moras al Malbec</h3><h3>+1 Pasta de aceitunas negras</h3><h3>+1 Pavita deshuesada en escabeche</h3></div>",
+  "img": "./img/box/box105.webp",
+  "imgbg": "./img/box/conFondo/b105.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 13678
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a5"
+  },
+  "codigo": 117,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN DOBLE</h2><h3>+1 RUTINI Malbec</h3><h3>+1 DV CATENA Malbec</h3></div>",
+  "img": "./img/box/box117.webp",
+  "imgbg": "./img/box/conFondo/b117.webp",
+  "tipo": "carton",
+  "tam": "doble",
+  "deli": false,
+  "precio": 13800
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a8"
+  },
+  "codigo": 120,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 TRUMPETER Malbec</h3><h3>+1 Pasta de aceitunas negras - Terra Sana</h3><h3>+1 Berenjenas en escabeche - Famiglia Gullo</h3><h3>+1 Nueces duradas mariposas ámbar - El Castaño</h3></div>",
+  "img": "./img/box/box120.webp",
+  "imgbg": "./img/box/conFondo/b120.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 7970
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d4998"
+  },
+  "codigo": 104,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3><h3>+1 TRUMPETER Malbec</h3></div>",
+  "img": "./img/box/box104.webp",
+  "imgbg": "./img/box/conFondo/b104.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": false,
+  "precio": 5724
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499b"
+  },
+  "codigo": 107,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA DOBLE</h2><h3>+1 D.V. CATENA Malbec Malbec</h3><h3>+1 Dip del bosque con Hongos al Malbec</h3><h3>+1 Chutney de moras al Malbec</h3><h3>+1 Pasta de aceitunas negras</h3><h3>+1 Pavita deshuesada en escabeche</h3></div>",
+  "img": "./img/box/box107.webp",
+  "imgbg": "./img/box/conFondo/b107.webp",
+  "tipo": "madera",
+  "tam": "doble",
+  "deli": true,
+  "precio": 12920
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d499f"
+  },
+  "codigo": 111,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA SIMPLE</h2><h3>+1 RUTINI Malbec</h3></div>",
+  "img": "./img/box/box111.webp",
+  "imgbg": "./img/box/conFondo/b111.webp",
+  "tipo": "madera",
+  "tam": "simple",
+  "deli": false,
+  "precio": 8890
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a0"
+  },
+  "codigo": 112,
+  "text": "<div class=\"popup\"><h2>BOLSA DE CARTÓN</h2><h3>+1 LUIGI BOSCA Malbec</h3></div>",
+  "img": "./img/box/box112.webp",
+  "imgbg": "./img/box/conFondo/b112.webp",
+  "tipo": "bolsa",
+  "tam": "simple",
+  "deli": false,
+  "precio": 3214
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a1"
+  },
+  "codigo": 113,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA SIMPLE</h2><h3>+1 SALENTEIN RESERVA Malbec</h3></div>",
+  "img": "./img/box/box113.webp",
+  "imgbg": "./img/box/conFondo/b113.webp",
+  "tipo": "madera",
+  "tam": "simple",
+  "deli": false,
+  "precio": 4500
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a2"
+  },
+  "codigo": 114,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA SIMPLE</h2><h3>+1 NIETO SENETINER Extra Brut</h3></div>",
+  "img": "./img/box/box114.webp",
+  "imgbg": "./img/box/conFondo/b114.webp",
+  "tipo": "madera",
+  "tam": "simple",
+  "deli": false,
+  "precio": 4700
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49a9"
+  },
+  "codigo": 121,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN SIMPLE</h2><h3>+1 TRUMPETER Malbec</h3></div>",
+  "img": "./img/box/box121.webp",
+  "imgbg": "./img/box/conFondo/b121.webp",
+  "tipo": "carton",
+  "tam": "simple",
+  "deli": false,
+  "precio": 3358
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49ad"
+  },
+  "codigo": 125,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE CARTÓN SIMPLE</h2><h3>+1 LUIGI BOSCA Malbec</h3></div>",
+  "img": "./img/box/box125.webp",
+  "imgbg": "./img/box/conFondo/b125.webp",
+  "tipo": "carton",
+  "tam": "simple",
+  "deli": false,
+  "precio": 4123
+},
+{
+  "_id": {
+    "$oid": "647f7b644a94bfeb594d49ae"
+  },
+  "codigo": 126,
+  "text": "<div class=\"popup\"><h2>ESTUCHE DE MADERA SIMPLE</h2><h3>+1 ESCORIHUELA GASCÓN Malbec</h3></div>",
+  "img": "./img/box/box126.webp",
+  "imgbg": "./img/box/conFondo/b126.webp",
+  "tipo": "madera",
+  "tam": "simple",
+  "deli": false,
+  "precio": 4577
+}]

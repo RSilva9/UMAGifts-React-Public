@@ -1,0 +1,796 @@
+[
+    {
+        "codigo": 101,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accf"
+              }
+            }
+        ],
+        "img": "./img/box/box101.webp",
+        "imgbg": "./img/box/conFondo/b101.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": false,
+        "precio": 15112
+    },
+    {
+        "codigo": 102,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accb"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acce"
+              }
+            }
+        ],
+        "img": "./img/box/box102.webp",
+        "imgbg": "./img/box/conFondo/b102.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": false,
+        "precio": 13897
+    },
+    {
+        "codigo": 103,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accb"
+              }
+            }
+        ],
+        "img": "./img/box/box103.webp",
+        "imgbg": "./img/box/conFondo/b103.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": false,
+        "precio": 18787
+    },
+    {
+        "codigo": 104,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd0"
+              }
+            }
+        ],
+        "img": "./img/box/box104.webp",
+        "imgbg": "./img/box/conFondo/b104.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": false,
+        "precio": 9292
+    },
+    {
+        "codigo": 105,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acde"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdb"
+              }
+            }
+        ],
+        "img": "./img/box/box105.webp",
+        "imgbg": "./img/box/conFondo/b105.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 17765
+    },
+    {
+        "codigo": 106,
+        "content": [
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4980"
+              }
+            },
+            {
+              "product": {
+                "$oid": "647f7aac4a94bfeb594d4975"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acde"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdb"
+              }
+            }
+        ],
+        "img": "./img/box/box106.webp",
+        "imgbg": "./img/box/conFondo/b106.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 13435
+    },
+    {
+        "codigo": 107,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accb"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acde"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdb"
+              }
+            }
+        ],
+        "img": "./img/box/box107.webp",
+        "imgbg": "./img/box/conFondo/b107.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 16285
+    },
+    {
+        "codigo": 108,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acde"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdb"
+              }
+            }
+        ],
+        "img": "./img/box/box108.webp",
+        "imgbg": "./img/box/conFondo/b108.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 12385
+    },
+    {
+        "codigo": 109,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd0"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acde"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdb"
+              }
+            }
+        ],
+        "img": "./img/box/box109.webp",
+        "imgbg": "./img/box/conFondo/b109.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 12730
+    },
+    {
+        "codigo": 110,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd6"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acce"
+              }
+            }
+        ],
+        "img": "./img/box/box110.webp",
+        "imgbg": "./img/box/conFondo/b110.webp",
+        "tipo": "carton",
+        "tam": "doble",
+        "deli": false,
+        "precio": 8320
+    },
+    {
+        "codigo": 111,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            }
+        ],
+        "img": "./img/box/box111.webp",
+        "imgbg": "./img/box/conFondo/b111.webp",
+        "tipo": "madera",
+        "tam": "simple",
+        "deli": false,
+        "precio": 11587
+    },
+    {
+        "codigo": 112,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd4"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acce"
+              }
+            }
+        ],
+        "img": "./img/box/box112.webp",
+        "imgbg": "./img/box/conFondo/b112.webp",
+        "tipo": "bolsa",
+        "tam": "simple",
+        "deli": false,
+        "precio": 3958
+    },
+    {
+        "codigo": 113,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accf"
+              }
+            }
+        ],
+        "img": "./img/box/box113.webp",
+        "imgbg": "./img/box/conFondo/b113.webp",
+        "tipo": "madera",
+        "tam": "simple",
+        "deli": false,
+        "precio": 5872
+    },
+    {
+        "codigo": 114,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd2"
+              }
+            }
+        ],
+        "img": "./img/box/box114.webp",
+        "imgbg": "./img/box/conFondo/b114.webp",
+        "tipo": "madera",
+        "tam": "simple",
+        "deli": false,
+        "precio": 6532
+    },
+    {
+        "codigo": 115,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            }
+        ],
+        "img": "./img/box/box115.webp",
+        "imgbg": "./img/box/conFondo/b115.webp",
+        "tipo": "carton",
+        "tam": "simple",
+        "deli": false,
+        "precio": 10035
+    },
+    {
+        "codigo": 116,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accf"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdd"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acda"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdf"
+              }
+            }
+        ],
+        "img": "./img/box/box116.webp",
+        "imgbg": "./img/box/conFondo/b116.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 10976
+    },
+    {
+        "codigo": 117,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd6"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accb"
+              }
+            }
+        ],
+        "img": "./img/box/box117.webp",
+        "imgbg": "./img/box/conFondo/b117.webp",
+        "tipo": "carton",
+        "tam": "doble",
+        "deli": false,
+        "precio": 17110
+    },
+    {
+        "codigo": 118,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accc"
+              }
+            }
+        ],
+        "img": "./img/box/box118.webp",
+        "imgbg": "./img/box/conFondo/b118.webp",
+        "tipo": "bolsa",
+        "tam": "simple",
+        "deli": false,
+        "precio": 9096
+    },
+    {
+        "codigo": 119,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd2"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd3"
+              }
+            }
+        ],
+        "img": "./img/box/box119.webp",
+        "imgbg": "./img/box/conFondo/b119.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": false,
+        "precio": 8962
+    },
+    {
+        "codigo": 120,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd0"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acdc"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd9"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace8"
+              }
+            }
+        ],
+        "img": "./img/box/box120.webp",
+        "imgbg": "./img/box/conFondo/b120.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 10168
+    },
+    {
+        "codigo": 121,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd0"
+              }
+            }
+        ],
+        "img": "./img/box/box121.webp",
+        "imgbg": "./img/box/conFondo/b121.webp",
+        "tipo": "carton",
+        "tam": "simple",
+        "deli": false,
+        "precio": 4440
+    },
+    {
+        "codigo": 122,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace9"
+              }
+            }
+        ],
+        "img": "./img/box/box122.webp",
+        "imgbg": "./img/box/conFondo/b122.webp",
+        "tipo": "madera",
+        "tam": "doble",
+        "deli": true,
+        "precio": 8640
+    },
+    {
+        "codigo": 123,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd4"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accf"
+              }
+            }
+        ],
+        "img": "./img/box/box123.webp",
+        "imgbg": "./img/box/conFondo/b123.webp",
+        "tipo": "bolsa",
+        "tam": "simple",
+        "deli": false,
+        "precio": 3133
+    },
+    {
+        "codigo": 124,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accb"
+              }
+            }
+        ],
+        "img": "./img/box/box124.webp",
+        "imgbg": "./img/box/conFondo/b124.webp",
+        "tipo": "madera",
+        "tam": "simple",
+        "deli": false,
+        "precio": 9547
+    },
+    {
+        "codigo": 125,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acce"
+              }
+            }
+        ],
+        "img": "./img/box/box125.webp",
+        "imgbg": "./img/box/conFondo/b125.webp",
+        "tipo": "carton",
+        "tam": "simple",
+        "deli": false,
+        "precio": 5145
+    },
+    {
+        "codigo": 126,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            }
+        ],
+        "img": "./img/box/box126.webp",
+        "imgbg": "./img/box/conFondo/b126.webp",
+        "tipo": "madera",
+        "tam": "simple",
+        "deli": false,
+        "precio": 5647
+    },
+    {
+        "codigo": 127,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd1"
+              }
+            }
+        ],
+        "img": "./img/box/box127.webp",
+        "imgbg": "./img/box/conFondo/b127.webp",
+        "tipo": "carton",
+        "tam": "simple",
+        "deli": false,
+        "precio": 4095
+    },
+    {
+        "codigo": 128,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd5"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accf"
+              }
+            }
+        ],
+        "img": "./img/box/box128.webp",
+        "imgbg": "./img/box/conFondo/b128.webp",
+        "tipo": "carton",
+        "tam": "simple",
+        "deli": false,
+        "precio": 4317
+    },
+    {
+        "codigo": 129,
+        "content": [
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acd6"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939accd"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace7"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939ace8"
+              }
+            },
+            {
+              "product": {
+                "$oid": "648bbc0b84fdb9fb6939acda"
+              }
+            }
+        ],
+        "img": "./img/box/box129.webp",
+        "imgbg": "./img/box/conFondo/b129.webp",
+        "tipo": "carton",
+        "tam": "doble",
+        "deli": true,
+        "precio": 10122
+    }
+]

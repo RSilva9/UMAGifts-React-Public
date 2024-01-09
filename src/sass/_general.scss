@@ -1,0 +1,108 @@
+html {
+    scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, a, p, li{
+    font-family: $mainFont;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+body{
+    background-color: map-get($map: $paleta, $key: main);
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+h1{
+    font-size: 2.7em;
+    color: map-get($map: $paleta, $key: evenDarkerSecondary);
+}
+
+h3{
+    font-size: 1.4em;
+}
+
+footer{
+    @include flex(row, space-around, flex-start, wrap);
+    padding: 15px 0px;
+    background: linear-gradient(0deg, rgba(69,22,51,1) 0%, rgba(105,34,78,1) 100%);
+    margin-top: auto;
+
+    a{
+        color: white;
+        font-size: 1.2em;
+    }
+
+    p{
+        color: white;
+        font-family: $secondaryFont;
+        font-size: 1.2em;
+    }
+
+    img{
+        color: white;
+        width: 1.3em;
+        margin-right: 5px;
+    }
+
+    h3{
+        color: white;
+    }
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color: map-get($map: $paleta, $key: evenDarkerSecondary);
+    height: 1px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    color: white;
+}
+
+th {
+    background-color: map-get($map: $paleta, $key: secondary);
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: map-get($map: $paleta, $key: lighterSecondary);
+}
+
+tr:nth-child(odd) {
+    background-color: map-get($map: $paleta, $key: evenLighterSecondary);
+}
+
+.tableContainer {
+    overflow-x: auto;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,242 @@
+[
+    {
+        "nombre": "D.V Catena - Malbec",
+        "codigo": 101,
+        "img": "./img/productos/vinos/vinoDVCatena.webp",
+        "tipo": "bebida",
+        "precio": 6525
+    },
+    {
+        "nombre": "Rutini - Malbec",
+        "codigo": 102,
+        "img": "./img/productos/vinos/vinoRutini.webp",
+        "tipo": "bebida",
+        "precio": 8565
+    },
+    {
+        "nombre": "Rutini - Cabernet Malbec",
+        "codigo": 103,
+        "img": "./img/productos/vinos/vinoRutiniCabernet.webp",
+        "tipo": "bebida",
+        "precio": 4822
+    },
+    {
+        "nombre": "Luigi Bosca - Malbec",
+        "codigo": 104,
+        "img": "./img/productos/vinos/vinoLuigi.webp",
+        "tipo": "bebida",
+        "precio": 3675
+    },
+    {
+        "nombre": "Salentein Reserva - Malbec",
+        "codigo": 105,
+        "img": "./img/productos/vinos/vinoSalentein.webp",
+        "tipo": "bebida",
+        "precio": 2850
+    },
+    {
+        "nombre": "Trumpeter - Malbec",
+        "codigo": 106,
+        "img": "./img/productos/vinos/vinoTrumpeter.webp",
+        "tipo": "bebida",
+        "precio": 2970
+    },
+    {
+        "nombre": "Escorihuela Gascón - Malbec",
+        "codigo": 107,
+        "img": "./img/productos/vinos/vinoEscorihuela.webp",
+        "tipo": "bebida",
+        "precio": 2625
+    },
+    {
+        "nombre": "Nieto Senetiner",
+        "codigo": 108,
+        "img": "./img/productos/vinos/espumNieto.webp",
+        "tipo": "bebida",
+        "precio": 3510
+    },
+    {
+        "nombre": "Sidra 1888 Saenz Briones",
+        "codigo": 109,
+        "img": "./img/productos/vinos/sidra1888.webp",
+        "tipo": "bebida",
+        "precio": 1755
+    },
+    {
+        "nombre": "Bolsa de cartón",
+        "codigo": 201,
+        "img": "./img/productos/estuches/bolsaCarton.webp",
+        "tipo": "estuche",
+        "tam": "simple",
+        "precio": 283
+    },
+    {
+        "nombre": "Estuche de cartón simple",
+        "codigo": 202,
+        "img": "./img/productos/estuches/cartonSimple.webp",
+        "tipo": "estuche",
+        "tam": "simple",
+        "precio": 1470
+    },
+    {
+        "nombre": "Estuche de cartón doble",
+        "codigo": 203,
+        "img": "./img/productos/estuches/cartonDoble.webp",
+        "tipo": "estuche",
+        "tam": "doble",
+        "precio": 2020
+    },
+    {
+        "nombre": "Estuche de madera simple",
+        "codigo": 204,
+        "img": "./img/productos/estuches/maderaSimple.webp",
+        "tipo": "estuche",
+        "tam": "simple",
+        "precio": 3022
+    },
+    {
+        "nombre": "Estuche de madera doble",
+        "codigo": 205,
+        "img": "./img/productos/estuches/maderaDoble.webp",
+        "tipo": "estuche",
+        "tam": "doble",
+        "precio": 3697
+    },
+    {
+        "nombre": "Berenjenas en escabeche 360gr - Famiglia Gullo",
+        "codigo": 303,
+        "img": "./img/productos/deli/berenjEscab.webp",
+        "tipo": "deli",
+        "size": "13",
+        "precio": 1875
+    },
+    {
+        "nombre": "Cebollas caramelizadas al Malbec 310gr - Juliana López May",
+        "codigo": 304,
+        "img": "./img/productos/deli/cebollasMalb.webp",
+        "tipo": "deli",
+        "size": "13",
+        "precio": 1497
+    },
+    {
+        "nombre": "Pavita deshuesada en Escabeche 375gr - Regionales del Norte",
+        "codigo": 305,
+        "img": "./img/productos/deli/pavitaReg.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1860
+    },
+    {
+        "nombre": "Pasta de aceitunas negras 235gr - Terra Sana",
+        "codigo": 306,
+        "img": "./img/productos/deli/pastaAceit.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1236
+        
+    },
+    {
+        "nombre": "Mermelada de arándanos 420gr - Estancia Las Quinas",
+        "codigo": 307,
+        "img": "./img/productos/deli/mermArand.webp",
+        "tipo": "deli",
+        "size": "13",
+        "precio": 1432
+    },
+    {
+        "nombre": "Chutney de moras al Malbec 195gr - MQA",
+        "codigo": 308,
+        "img": "./img/productos/deli/chutneyMoras.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1497
+    },
+    {
+        "nombre": "Mermelada orgánica de Saúco 280gr - Cuyen",
+        "codigo": 309,
+        "img": "./img/productos/deli/mermSauco.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1500
+    },
+    {
+        "nombre": "Chocolate amargo saborizado con Naranja 90gr - 1891",
+        "codigo": 310,
+        "img": "./img/productos/deli/chocOrange.webp",
+        "tipo": "deli",
+        "size": "19",
+        "precio": 696
+    },
+    {
+        "nombre": "Chocolate amargo Intense 90gr - 1891",
+        "codigo": 311,
+        "img": "./img/productos/deli/chocIntense.webp",
+        "tipo": "deli",
+        "size": "19",
+        "precio": 696
+    },
+    {
+        "nombre": "Chocolate a base de Cacao y Azucar con Avellanas 90gr - 1891",
+        "codigo": 312,
+        "img": "./img/productos/deli/chocAvellanas.webp",
+        "tipo": "deli",
+        "size": "19",
+        "precio": 696
+    },
+    {
+        "nombre": "Berenjenas en escabeche 360gr - Atacopampa",
+        "codigo": 313,
+        "img": "./img/productos/deli/berenjEscab2.webp",
+        "tipo": "deli",
+        "size": "12",
+        "precio": 1125
+    },
+    {
+        "nombre": "Pavita deshuesada en Escabeche 500gr - Regionales del Norte",
+        "codigo": 314,
+        "img": "./img/productos/deli/pavitaRegGrande.webp",
+        "tipo": "deli",
+        "size": "12",
+        "precio": 2772
+    },
+    {
+        "nombre": "Tapenade Mediterraneo 170gr - MQA",
+        "codigo": 315,
+        "img": "./img/productos/deli/tapenade.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1621
+    },
+    {
+        "nombre": "Cebollas caramelizadas en escabeche 360gr - Atacopampa",
+        "codigo": 316,
+        "img": "./img/productos/deli/cebCaram.webp",
+        "tipo": "deli",
+        "size": "12",
+        "precio": 1125
+    },
+    {
+        "nombre": "Tomates secos condimentados 180gr - MQA",
+        "codigo": 317,
+        "img": "./img/productos/deli/tomatesSecos.webp",
+        "tipo": "deli",
+        "size": "8",
+        "precio": 1393
+    },
+    {
+        "nombre": "Nueces ámbar doradas 100gr",
+        "codigo": 318,
+        "img": "./img/productos/deli/nueces.webp",
+        "tipo": "deli",
+        "size": "10",
+        "precio": 390
+    },
+    {
+        "nombre": "Dip del Bosque con Hongos al Malbec 90gr - Valleverde",
+        "codigo": 319,
+        "img": "./img/productos/deli/dipBosque.webp",
+        "tipo": "deli",
+        "size": "4",
+        "precio": 1102
+    }
+]

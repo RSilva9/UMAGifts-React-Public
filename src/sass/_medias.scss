@@ -1,0 +1,85 @@
+@media (max-width: 767px){
+    #boxCarousel {
+        .carousel-inner{
+            width: 100%;
+            margin-left: 0px;
+            margin-right: 0px;
+            padding: 0px 1em;
+        }
+        .cell{
+            img{
+                width: 90%;
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    #botonesIndex{
+        @include flex(column, flex-start, center, nowrap);
+        padding: 0px;
+        max-height: 5vh;
+        a{
+            margin: 2px 0px;
+            min-height: 5vh;
+            h2{
+                align-self: center;
+            }
+        }
+    }
+
+    .longCard{
+        @include flex(column, space-between, center, nowrap);
+        #firstHalf{
+            width: 100%;
+        }
+        #secondHalf{
+            width: 100%;
+            @include flex(row, center, center, nowrap);
+            div{
+                margin: 0px 15px;
+            }
+        }
+    }
+
+    #btnWhatsapp{
+        img{
+            width: 50px;
+        }
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 950px){
+    #customBoxContainer{
+        margin: 15px 40px;
+        .accGrid{
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            grid-template-rows: auto;
+            grid-gap: 1rem;
+        }
+    }
+}
+
+@media (max-width: 500px){
+    #mainh1{
+        font-size: 1.5em;
+    }
+    #customBoxContainer{
+        margin: 15px 20px;
+        .accGrid{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            grid-template-rows: auto;
+            grid-gap: 1rem;
+        }
+    }
+}
+
+@media (max-width: 960px){
+    #relaxSite{
+        @include flex(column, flex-start, center, nowrap);
+        img{
+            width: 75vw;
+        }
+    }
+}
