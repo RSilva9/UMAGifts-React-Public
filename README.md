@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# UMA GIFTS
+Sitio Web E-commerce para emprendimiento familiar de venta de regalos empresariales
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DESARROLLO
+Este sitio está desarrollado tanto en su aspecto front-end como back-end.  
 
-## Available Scripts
+Para el front-end utilicé:
+- HTML.
+- SASS.
+- ReactJS.
+- Librerías como Bootstrap y SweetAlert.
 
-In the project directory, you can run:
+Para el back-end utilicé:
+- MongoDB.
+- NodeJs.
+- Express.
+- Nodemailer.
 
-### `npm start`
+## FUNCIONALIDADES
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este sitio web originalmente fue desarrollado en JavaScript y HTML plano, pero decidí poner a prueba mis nuevos conocimientos re-desarrollándola desde cero para poder incluir nuevas funcionalidades. Algunas de ellas son:
+- Registro de cuentas para almacenar carrito y compras previas. 
+- Guardado de productos en una base de datos. 
+- Modificación de datos desde un panel de administrador para poder cambiar precios fácilmente. 
+- Envío de correos automáticos.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### El sitio se encuentra en funcionamiento y puede ser visitado en: https://www.umagifts.com.ar/
 
-### `npm test`
+-------------------------------
+# UMA GIFTS
+E-commerce website for a family-owned business selling corporate gifts.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## DEVELOPMENT
+This site is developed in both its front-end and back-end aspects.  
 
-### `npm run build`
+For front-end, I used:
+- HTML.
+- SASS.
+- ReactJS.
+- Libraries such as Bootstrap and SweetAlert.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For back-end, I used:
+- MongoDB.
+- NodeJs.
+- Express.
+- Nodemailer.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## FUNCTIONALITIES
+This website was originally developed using plain JavaScript and HTML, but I decided to test my new skills by re-developing it from scratch to include some new functionalities and optimize code length. Some of these are:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Account registration to store carts and previous purchases.
+- Saving of products in a database.
+- Data modification from an admin panel to easily change prices.
+- Automatic email sending.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### The site is currently fully functional and can be visited at: https://www.umagifts.com.ar/
