@@ -28,10 +28,10 @@ Este sitio web originalmente fue desarrollado en JavaScript y HTML plano, pero d
 
 -------------------------------
 # UMA GIFTS
-E-commerce website for a family-owned business selling corporate gifts.
+E-commerce website for a family-owned business dedicated to selling corporate gifts.
 
 ## DEVELOPMENT
-This site is developed in both its front-end and back-end aspects.  
+This project includes both front and back end elements. 
 
 For front-end, I used:
 - HTML.
@@ -45,7 +45,7 @@ For back-end, I used:
 - Express.
 - Nodemailer.
 
-## FUNCTIONALITIES
+## FEATURES
 This website was originally developed using plain JavaScript and HTML, but I decided to test my new skills by re-developing it from scratch to include some new functionalities and optimize code length. Some of these are:
 
 - Account registration to store carts and previous purchases.
