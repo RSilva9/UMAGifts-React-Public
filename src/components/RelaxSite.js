@@ -13,9 +13,9 @@ function RelaxSite() {
       const products = document.getElementsByClassName("active")
       var boxPrice
       if(products[4].children[1].innerHTML == "Sin esponja"){
-        boxPrice = 7870
+        boxPrice = 17579
       }else{
-        boxPrice = 8860
+        boxPrice = 18794
       }
       const finished = {
         jabon: products[1].children[1].innerHTML,
