@@ -13,9 +13,9 @@ function RelaxSite() {
       const products = document.getElementsByClassName("active")
       var boxPrice
       if(products[4].children[1].innerHTML == "Sin esponja"){
-        boxPrice = 17579
+        boxPrice = 17292
       }else{
-        boxPrice = 18794
+        boxPrice = 18507
       }
       const finished = {
         jabon: products[1].children[1].innerHTML,
@@ -120,8 +120,8 @@ function RelaxSite() {
             />
           </Carousel.Item>
         </Carousel>
-        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3 d-none' id="priceNoSponge">$7870</h4>
-        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3' id="priceSponge">$8860</h4>
+        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3 d-none' id="priceNoSponge">$17292</h4>
+        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3' id="priceSponge">$18507</h4>
       </div>
       <div id='relaxSiteButtons'>
         <img src='/img/relax/BoxRelax.webp'/>
