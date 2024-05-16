@@ -6,17 +6,12 @@ import axios from 'axios';
 
 function RelaxSite() {
   const [finishedBox, setFinishedBox] = useState(null)
+  const [bPrice, setBPrice] = useState(12746)
   const { contextUser: user } = useContext(siteContext)
 
   const handleFinishBox = ()=>{
     setTimeout(() => {
       const products = document.getElementsByClassName("active")
-      var boxPrice
-      if(products[4].children[1].innerHTML == "Sin esponja"){
-        boxPrice = 17292
-      }else{
-        boxPrice = 18507
-      }
       const finished = {
         jabon: products[1].children[1].innerHTML,
         vela: "Vela aromática de soja",
@@ -27,7 +22,7 @@ function RelaxSite() {
       const fireSwal = async()=>{
         const {value: cantidad} = await Swal.fire({
             title: '¿Cuántas BOX querés agregar al carrito?',
-            html: `<h3>Precio final de tu BOX: $${boxPrice}</h3>`,
+            html: `<h3>Precio final de tu BOX: $${bPrice}</h3>`,
             input: 'number',
             confirmButtonColor: '#9ebc4a',
             confirmButtonText: 'Agregar al carrito',
@@ -41,7 +36,7 @@ function RelaxSite() {
             if(user.cartId){
                 const newRelaxBox = {
                   finished,
-                  precio: boxPrice,
+                  precio: bPrice,
                 }
                 const result = await axios({
                     method: 'put',
@@ -52,7 +47,7 @@ function RelaxSite() {
             }else{
                 const newRelaxBox = {
                     products: finished,
-                    precio: boxPrice,
+                    precio: bPrice,
                     quantity: Number(cantidad)
                 }
                 let localRelaxBoxArray = JSON.parse(localStorage.getItem("relaxBoxes")) || []
@@ -85,11 +80,9 @@ function RelaxSite() {
     setTimeout(() => {
       const products = document.getElementsByClassName("active")
       if(products[4].children[1].innerHTML == "Sin esponja"){
-        document.getElementById("priceNoSponge").classList.remove("d-none")
-        document.getElementById("priceSponge").classList.add("d-none")
+        setBPrice(11306)
       }else{
-        document.getElementById("priceNoSponge").classList.add("d-none")
-        document.getElementById("priceSponge").classList.remove("d-none")
+        setBPrice(12746)
       }
     }, 1000);
   }
@@ -120,8 +113,7 @@ function RelaxSite() {
             />
           </Carousel.Item>
         </Carousel>
-        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3 d-none' id="priceNoSponge">$17292</h4>
-        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3' id="priceSponge">$18507</h4>
+        <h4 className='text-center display-3 bg-white w-50 m-auto mb-3' id="priceNoSponge">${bPrice}</h4>
       </div>
       <div id='relaxSiteButtons'>
         <img src='/img/relax/BoxRelax.webp'/>

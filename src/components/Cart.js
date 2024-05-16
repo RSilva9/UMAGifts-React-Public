@@ -105,7 +105,6 @@ function Cart(){
     }
 
     const removeFromCart = async(item) =>{
-        console.log(item)
         if(user.cartId){
             setIsLoading(true)
             setLoaderMode("transp")
@@ -116,8 +115,7 @@ function Cart(){
                 setLoaderMode(null)
             })
         }else{
-            if(item.products.esponja){
-                console.log("HOLA")
+            if(item.products && item.products.esponja){
                 const newRelaxBoxes = cart.relaxBoxes.filter(prod => prod.products.esponja !== item.products.esponja)
                 const newPrice = cart.totalPrice -= item.precio*item.quantity
                 setCart(prevCart => ({
