@@ -1,5 +1,6 @@
 # UMA GIFTS
 Sitio Web E-commerce para emprendimiento familiar de venta de regalos empresariales
+DISCLAIMER: Este fue mi primer proyecto real y NO refleja la calidad de mi código actual.
 
 ## DESARROLLO
 Este sitio está desarrollado tanto en su aspecto front-end como back-end.  
@@ -29,6 +30,7 @@ Este sitio web originalmente fue desarrollado en JavaScript y HTML plano, pero d
 -------------------------------
 # UMA GIFTS
 E-commerce website for a family-owned business dedicated to selling corporate gifts.
+DISCLAIMER: This was my first real project and DOES NOT reflect the quality of my current code.
 
 ## DEVELOPMENT
 This project includes both front and back end elements. 
